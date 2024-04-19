@@ -3,8 +3,7 @@
 This repo contains data samples and the queries used throughout the Microsoft Press book [The Definitive Guide to KQL: Using Kusto Query Language for Operations, Defending and Threat Hunting](https://aka.ms/kqLMSPress/)
 
 <p align="center">
-<img width="460" height="560" src="https://github.com/KQLMSPress/definitive-guide-kql/assets/16296440/f5542627-b56e-471b-b7ea-12a155384c86"
-
+<img width="460" height="560" src=https://github.com/KQLMSPress/definitive-guide-kql/assets/88635951/a03aa02c-3f11-41ee-9ed5-d5dca5e75662"
 </p>
 
 The queries in this repo follow along chronologically with those found throughout the book and are designed for you to be able to easily copy and paste them into your environment.
