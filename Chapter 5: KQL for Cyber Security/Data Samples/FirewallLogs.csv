@@ -1,0 +1,12 @@
+"srcdev=10.10.10.10,date=Mar 13th 2023,time=08.00.00(+5 GMT),action=accept,sourceip=50.50.50.50,dstip=192.168.200.100,srcprt=443,dstprt=443,xproto=tcp,bytesin=39230,bytesout=392378"
+"srcdev=10.10.10.10,date=Mar 13th 2023,time=07.44.33(+5 GMT),action=accept,sourceip=50.50.50.40,dstip=192.168.200.150,srcprt=2343,dstprt=22,xproto=tcp,bytesin=65122,bytesout=238944"
+"srcdev=10.10.10.10,date=Mar 16th 2023,time=17.34.11(+5 GMT),action=accept,sourceip=50.50.60.50,dstip=192.168.200.133,srcprt=34234,dstprt=21,xproto=tcp,bytesin=94382300,bytesout=23409239239"
+"srcdev=10.10.10.10,date=Mar 13th 2023,time=11.44.04(+5 GMT),action=drop,sourceip=50.60.50.50,dstip=192.168.200.111,srcprt=8500,dstprt=8500,xproto=tcp,bytesin=39230,bytesout=392378"
+"device:10.10.10.30,timestamp:4/25/2023 07:44:44z,policy:default-corp-in,outcome:allow,src=50.23.23.23:48236/tcp,dst=192.168.200.158:3389/tcp,datain=390389bytes,dataout=402394bytes,tz=-4"
+"device:10.10.10.30,timestamp:4/26/2023 14:22:55z,policy:default-dmz,outcome:deny,src=50.23.26.23:48236/tcp,dst=192.168.200.155:21/tcp,datain=124bytes,dataout=564bytes,tz=-4"
+"device:10.10.10.30,timestamp:4/25/2023 08:22:11z,policy:default-corp-in,outcome:allow,src=50.23.13.23:80/tcp,dst=192.168.200.158:443/tcp,datain=938401bytes,dataout=123938bytes,tz=-4"
+"device:10.10.10.30,timestamp:4/27/2023 17:04:42z,policy:default-corp-in,outcome:allow,src=50.23.23.25:53/udp,dst=192.168.200.133:53/udp,datain=2399bytes,dataout=91836bytes,tz=-4"
+Mar 29 2023 15:49:48.699: connection accepted: sent 1256 bytes to endpoint 192.168.200.133:3389 from 50.50.50.50:56744 (SourceDeviceIP:10.10.10.20)
+Mar 28 2023 08:34:44.100: connection accepted: sent 12353 bytes to endpoint 192.168.200.150:443 from 50.50.60.50:443 (SourceDeviceIP:10.10.10.20)
+Mar 29 2023 00:22:04.194: connection accepted: sent 1256324 bytes to endpoint 192.168.200.45:21 from 50.50.50.50:56744 (SourceDeviceIP:10.10.10.20)
+Mar 29 2023 16:43:45.293: connection denied: 192.168.200.122:22 connection rejected from 50.50.50.60:56744 (SourceDeviceIP:10.10.10.20)
