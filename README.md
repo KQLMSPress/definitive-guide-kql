@@ -12,7 +12,7 @@ For some queries and examples, the scenarios in the book may be purely hypotheti
 
 Some queries leverage the [datatable](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/datatable-operator) operator to create log data dynamically as you run the queries, and some use the [externaldata](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/externaldata-operator?pivots=azuredataexplorer) operator to access sample data held in this repo itself.
 
-There is also a chance that a typo made its way into one of the queries in the book, we have tried our best to test them repeatedly but these things happen, if so, we will update the repo here.
+There is also a chance that a typo made its way into one of the queries in the book, we have tried our best to test them repeatedly but these things happen, if so, we will update the repo here. Also, in order to format the queries in the book and fit them into the pages some additional line breaks were added so it is easier to copy and paste the queries from here, rather than the eBook/PDF itself.
 
 This repo is completely open sourced by-design, and people who didn't buy the book can also access it. Of course we would love for you to purchase the book if you can! If not and a query here saves you some time, or detects something bad in your environment, then that is just as a big win for us as authors as selling copies of a book.
 
