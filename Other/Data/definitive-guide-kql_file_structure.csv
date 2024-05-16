@@ -1,0 +1,87 @@
+Type,Path,URL
+blob,.gitignore,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/.gitignore
+tree,Chapter 1: Introduction,
+tree,Chapter 1: Introduction/Query Samples,
+blob,Chapter 1: Introduction/Query Samples/1.Fundamental_Concepts.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/Query Samples/1.Fundamental_Concepts.md
+blob,Chapter 1: Introduction/Query Samples/2.Searching_and_Filtering.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/Query Samples/2.Searching_and_Filtering.md
+blob,Chapter 1: Introduction/Query Samples/3.Data_Manipulation.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/Query Samples/3.Data_Manipulation.md
+blob,Chapter 1: Introduction/Query Samples/4.Just_Enough_User_Interface.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/Query Samples/4.Just_Enough_User_Interface.md
+blob,Chapter 1: Introduction/Query Samples/5.Time_Operators.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/Query Samples/5.Time_Operators.md
+blob,Chapter 1: Introduction/Query Samples/6.Miscellaneous_Fundamentals.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/Query Samples/6.Miscellaneous_Fundamentals.md
+blob,Chapter 1: Introduction/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 1: Introduction/README.md
+tree,Chapter 2: Data Aggregation,
+tree,Chapter 2: Data Aggregation/Query Samples,
+blob,Chapter 2: Data Aggregation/Query Samples/1.Obfuscating_Results.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/1.Obfuscating_Results.md
+blob,Chapter 2: Data Aggregation/Query Samples/2.Distinct_and_Count.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/2.Distinct_and_Count.md
+blob,Chapter 2: Data Aggregation/Query Samples/3.Min_Max_Average_and_Sum.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/3.Min_Max_Average_and_Sum.md
+blob,Chapter 2: Data Aggregation/Query Samples/4.Bins_Percentages_and_Percentiles.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/4.Bins_Percentages_and_Percentiles.md
+blob,Chapter 2: Data Aggregation/Query Samples/5.Lists_and_Sets.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/5.Lists_and_Sets.md
+blob,Chapter 2: Data Aggregation/Query Samples/6.Visualizing_Data_with_the_Render_Operator.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/6.Visualizing_Data_with_the_Render_Operator.md
+blob,Chapter 2: Data Aggregation/Query Samples/7.Aggregation_Functions_Usage_in_Other_Operators.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/Query Samples/7.Aggregation_Functions_Usage_in_Other_Operators.md
+blob,Chapter 2: Data Aggregation/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 2: Data Aggregation/README.md
+tree,Chapter 3: Advanced KQL,
+tree,Chapter 3: Advanced KQL/Data Samples,
+blob,Chapter 3: Advanced KQL/Data Samples/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Data Samples/README.md
+blob,Chapter 3: Advanced KQL/Data Samples/thresholds.csv,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Data Samples/thresholds.csv
+tree,Chapter 3: Advanced KQL/Query Samples,
+blob,Chapter 3: Advanced KQL/Query Samples/1.Creating_Constants_with_let.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/1.Creating_Constants_with_let.md
+blob,Chapter 3: Advanced KQL/Query Samples/10.Working_with_JSON.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/10.Working_with_JSON.md
+blob,Chapter 3: Advanced KQL/Query Samples/11.Time_Series_Analysis.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/11.Time_Series_Analysis.md
+blob,Chapter 3: Advanced KQL/Query Samples/12.Exploring_the_Power_of_Regular_Expressions_in_KQL.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/12.Exploring_the_Power_of_Regular_Expressions_in_KQL.md
+blob,Chapter 3: Advanced KQL/Query Samples/13.Using_the_bin_KQL_Function.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/13.Using_the_bin_KQL_Function.md
+blob,Chapter 3: Advanced KQL/Query Samples/14.Understanding_Functions_in_Kusto_Query_Language.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/14.Understanding_Functions_in_Kusto_Query_Language.md
+blob,Chapter 3: Advanced KQL/Query Samples/15.How_to_Use_the_KQL_Materialize_Function.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/15.How_to_Use_the_KQL_Materialize_Function.md
+blob,Chapter 3: Advanced KQL/Query Samples/2.Using_Multiple_Variables_in_Queries.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/2.Using_Multiple_Variables_in_Queries.md
+blob,Chapter 3: Advanced KQL/Query Samples/3.Uniting_Queries_with_KQL_Unions.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/3.Uniting_Queries_with_KQL_Unions.md
+blob,Chapter 3: Advanced KQL/Query Samples/4.The_Power_of_Joining_Data.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/4.The_Power_of_Joining_Data.md
+blob,Chapter 3: Advanced KQL/Query Samples/5.Using_the_Externaldata_KQL_Operator.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/5.Using_the_Externaldata_KQL_Operator.md
+blob,Chapter 3: Advanced KQL/Query Samples/6.Query_IP_Ranges_Using_KQL.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/6.Query_IP_Ranges_Using_KQL.md
+blob,Chapter 3: Advanced KQL/Query Samples/7.Using_the_ipv4_is_private_KQL_Function.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/7.Using_the_ipv4_is_private_KQL_Function.md
+blob,Chapter 3: Advanced KQL/Query Samples/8.Working_with_Multivalued_Strings_in_KQL.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/8.Working_with_Multivalued_Strings_in_KQL.md
+blob,Chapter 3: Advanced KQL/Query Samples/9.Using_the_base64_decode_tostring_KQL_Function.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/Query Samples/9.Using_the_base64_decode_tostring_KQL_Function.md
+blob,Chapter 3: Advanced KQL/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 3: Advanced KQL/README.md
+tree,Chapter 4: Operational Excellence,
+tree,Chapter 4: Operational Excellence/Query Samples,
+blob,Chapter 4: Operational Excellence/Query Samples/1.The_Power_of_KQL_in_IT.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/1.The_Power_of_KQL_in_IT.md
+blob,Chapter 4: Operational Excellence/Query Samples/2.Advanced_Hunting_Query_Examples.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/2.Advanced_Hunting_Query_Examples.md
+blob,Chapter 4: Operational Excellence/Query Samples/3.Common_Security_Challenges_in_the_Cloud.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/3.Common_Security_Challenges_in_the_Cloud.md
+blob,Chapter 4: Operational Excellence/Query Samples/4.Hands-on Training_Mastering_KQL.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/4.Hands-on Training_Mastering_KQL.md
+blob,Chapter 4: Operational Excellence/Query Samples/5.KQL_Across_Azure.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/5.KQL_Across_Azure.md
+blob,Chapter 4: Operational Excellence/Query Samples/6.Using_KQL_for_Microsoft_Intune_for_Diagnostics_and_Compliance.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/6.Using_KQL_for_Microsoft_Intune_for_Diagnostics_and_Compliance.md
+blob,Chapter 4: Operational Excellence/Query Samples/7.Using_KQL_to_Create_Powerful_Azure_Monitor_Workbooks.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/7.Using_KQL_to_Create_Powerful_Azure_Monitor_Workbooks.md
+blob,Chapter 4: Operational Excellence/Query Samples/8.Enhancing_Data_Management_and_Efficiency.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/8.Enhancing_Data_Management_and_Efficiency.md
+blob,Chapter 4: Operational Excellence/Query Samples/9.Best_Practices_for_Optimizing_Query_Performance.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/Query Samples/9.Best_Practices_for_Optimizing_Query_Performance.md
+blob,Chapter 4: Operational Excellence/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 4: Operational Excellence/README.md
+tree,Chapter 5: KQL for Cyber Security,
+tree,Chapter 5: KQL for Cyber Security/Data Samples,
+blob,Chapter 5: KQL for Cyber Security/Data Samples/FirewallLogs.csv,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Data Samples/FirewallLogs.csv
+blob,Chapter 5: KQL for Cyber Security/Data Samples/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Data Samples/README.md
+tree,Chapter 5: KQL for Cyber Security/Query Samples,
+blob,Chapter 5: KQL for Cyber Security/Query Samples/1. Cybersecurity-focused Operators.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/1. Cybersecurity-focused Operators.md
+blob,Chapter 5: KQL for Cyber Security/Query Samples/2. User Compromise in Microsoft 365.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/2. User Compromise in Microsoft 365.md
+blob,Chapter 5: KQL for Cyber Security/Query Samples/3. Phishing Attacks.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/3. Phishing Attacks.md
+blob,Chapter 5: KQL for Cyber Security/Query Samples/4. Firewall Log Parsing.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/4. Firewall Log Parsing.md
+blob,Chapter 5: KQL for Cyber Security/Query Samples/5. Auditing Security Posture.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/5. Auditing Security Posture.md
+blob,Chapter 5: KQL for Cyber Security/Query Samples/6. Microsoft Entra ID Tenant Compromise.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/6. Microsoft Entra ID Tenant Compromise.md
+blob,Chapter 5: KQL for Cyber Security/Query Samples/7. Ransomware TTPs.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/Query Samples/7. Ransomware TTPs.md
+blob,Chapter 5: KQL for Cyber Security/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 5: KQL for Cyber Security/README.md
+tree,Chapter 6: Advanced KQL for Cyber Security,
+tree,Chapter 6: Advanced KQL for Cyber Security/Data Samples,
+blob,Chapter 6: Advanced KQL for Cyber Security/Data Samples/AADSignInLogs.csv,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Data Samples/AADSignInLogs.csv
+blob,Chapter 6: Advanced KQL for Cyber Security/Data Samples/FWLogs.csv,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Data Samples/FWLogs.csv
+blob,Chapter 6: Advanced KQL for Cyber Security/Data Samples/Indicators.csv,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Data Samples/Indicators.csv
+blob,Chapter 6: Advanced KQL for Cyber Security/Data Samples/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Data Samples/README.md
+tree,Chapter 6: Advanced KQL for Cyber Security/Query Samples,
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/1. mv-expand and mv-apply.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/1. mv-expand and mv-apply.md
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/2. Joins.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/2. Joins.md
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/3. let statement.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/3. let statement.md
+blob,"Chapter 6: Advanced KQL for Cyber Security/Query Samples/4. iff, case and coalesce.md","https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/4. iff, case and coalesce.md"
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/5. parse and regex.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/5. parse and regex.md
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/6. Time operators.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/6. Time operators.md
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/7. Visualizations and time-series analysis.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/7. Visualizations and time-series analysis.md
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/8. Geolocation.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/8. Geolocation.md
+blob,Chapter 6: Advanced KQL for Cyber Security/Query Samples/9. Misc operators and functions.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/Query Samples/9. Misc operators and functions.md
+blob,Chapter 6: Advanced KQL for Cyber Security/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Chapter 6: Advanced KQL for Cyber Security/README.md
+tree,Extra Microsoft Employee Submitted Queries,
+blob,Extra Microsoft Employee Submitted Queries/README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/Extra Microsoft Employee Submitted Queries/README.md
+blob,README.md,https://github.com/KQLMSPress/definitive-guide-kql/blob/main/README.md
