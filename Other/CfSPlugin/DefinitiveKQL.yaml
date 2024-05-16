@@ -1,14 +1,14 @@
 Descriptor:
   Name: DefinitiveKQL
-  DisplayName: The Definitive Guide to KQL
-  Description: The Definitive Guide to KQL - Using Kusto Query Language for operations, defending, and threat hunting
+  DisplayName: The Definitive Guide to KQL from Microsoft Press
+  Description: Better than a book index! Locates the samples from The Definitive Guide to KQL from Microsoft Press
 
 SkillGroups:
   - Format: KQL
     Skills:
       - Name: DefinitiveKQL
-        DisplayName: The Definitive Guide to KQL
-        Description: The Definitive Guide to KQL - Using Kusto Query Language for operations, defending, and threat hunting
+        DisplayName: The Definitive Guide to KQL from Microsoft Press
+        Description: Better than a book index! Locates the samples from The Definitive Guide to KQL from Microsoft Press
         Settings:
           Target: Sentinel
           TenantId: <your_tenant_ID>
