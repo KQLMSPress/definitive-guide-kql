@@ -1,0 +1,19 @@
+Descriptor:
+  Name: DefinitiveKQL
+  DisplayName: The Definitive Guide to KQL
+  Description: The Definitive Guide to KQL - Using Kusto Query Language for operations, defending, and threat hunting
+
+SkillGroups:
+  - Format: KQL
+    Skills:
+      - Name: DefinitiveKQL
+        DisplayName: The Definitive Guide to KQL
+        Description: The Definitive Guide to KQL - Using Kusto Query Language for operations, defending, and threat hunting
+        Settings:
+          Target: Sentinel
+          TenantId: <your_tenant_ID>
+          SubscriptionId: <your_subscription_ID>
+          ResourceGroupName: <your_RG_name>
+          WorkspaceName: <your_WS_name>
+          Template: |-
+            let DefinitiveKQL = externaldata (type:string,path:string,url:string) [@"https://raw.githubusercontent.com/KQLMSPress/definitive-guide-kql/main/Other/Data/definitive-guide-kql_file_structure.csv"] with (ignoreFirstRecord=true, format="csv"); DefinitiveKQL
